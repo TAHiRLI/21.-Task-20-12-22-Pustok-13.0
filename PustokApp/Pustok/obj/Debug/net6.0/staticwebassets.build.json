@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ex/Ua9aottaQQ1If2cYRME/61b89y/oCfaYeA/KZClU=",
+  "Hash": "D658M7hD79mb15puG2O7tJ2NRtiT9LML9ThQhZ3edKg=",
   "Source": "Pustok",
   "BasePath": "_content/Pustok",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Pustok\\wwwroot",
       "Source": "Pustok",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\demo\\chart-area-demo.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\demo\\chart-area-demo.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/AdminAssets/demo/chart-area-demo.js",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\AdminAssets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\demo\\chart-bar-demo.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/AdminAssets/demo/chart-bar-demo.js",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\AdminAssets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\demo\\chart-pie-demo.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/AdminAssets/demo/chart-pie-demo.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\AdminAssets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\demo\\datatables-demo.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\demo\\datatables-demo.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/AdminAssets/demo/datatables-demo.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\AdminAssets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\img\\error-404-monochrome.svg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\AdminAssets\\img\\error-404-monochrome.svg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/AdminAssets/img/error-404-monochrome.svg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\AdminAssets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\css\\styles.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\css\\styles.css",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/css/styles.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\js\\datatables-simple-demo.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/js/datatables-simple-demo.js",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\js\\Edit.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\js\\Edit.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/js/Edit.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\Edit.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\js\\Main.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\js\\Main.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/js/Main.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\Main.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\admin\\js\\scripts.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\admin\\js\\scripts.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "admin/js/scripts.js",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\css\\main.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\css\\main.css",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/css/main.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\css\\plugins.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\css\\plugins.css",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/css/plugins.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\plugins.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-brands-400d41d.eot",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-brands-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-regular-400d41d.eot",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-regular-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/fa-solid-900d41d.eot",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fa-solid-900d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Ionicons28b5.eot",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Ionicons28b5.eot",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/Ionicons28b5.eot",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Ionicons28b5.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Ionicons28b5.svg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Ionicons28b5.svg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/Ionicons28b5.svg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Ionicons28b5.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Ionicons28b5.ttf",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Ionicons28b5.ttf",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/Ionicons28b5.ttf",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Ionicons28b5.ttf"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Ionicons28b5.woff",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Ionicons28b5.woff",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/Ionicons28b5.woff",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Ionicons28b5.woff"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/Material-Design-Iconic-Fontd1f1.ttf",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/Material-Design-Iconic-Fontd1f1.woff",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/fonts/Material-Design-Iconic-Fontd1f1.woff2",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-contained.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-contained.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/bg-images/promo-banner-contained.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-contained.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-full.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-full.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/bg-images/promo-banner-full.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-full.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-mid.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-mid.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/bg-images/promo-banner-mid.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-mid.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-small.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-small.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/bg-images/promo-banner-small.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-small-with-text.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-small-with-text.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/bg-images/promo-banner-small-with-text.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-small-with-text.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/bg-images/promo-banner-with-text.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-with-text.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/bg-images/promo-banner-with-text-2.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/bg-images/promo-banner-with-text-2--small.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-2--small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-big.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-big.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/bg-images/promo-banner-with-text-big.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\bg-images\\promo-banner-with-text-big.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\favicon.ico",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\favicon.ico",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/favicon.ico",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\author-logo.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\author-logo.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/icon/author-logo.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\author-logo.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\eng-flag.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\eng-flag.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/icon/eng-flag.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\eng-flag.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\germany-flag.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\germany-flag.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/icon/germany-flag.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\germany-flag.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\payment.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\payment.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/icon/payment.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\payment.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\quotation.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\icon\\quotation.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/icon/quotation.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\icon\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\logo.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\logo.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/logo.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\logo--footer.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\logo--footer.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/logo--footer.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\logo--footer.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\best-seller-author.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\best-seller-author.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/best-seller-author.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\best-seller-author.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-grid-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-grid-1.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/blog-grid-1.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-grid-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-grid-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-grid-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/blog-grid-2.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-grid-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-grid-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-grid-3.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/blog-grid-3.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-grid-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-grid-4.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-grid-4.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/blog-grid-4.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-grid-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-img-big-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-img-big-1.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/blog-img-big-1.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-img-big-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-img-big-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-img-big-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/blog-img-big-2.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-img-big-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-img-big-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\blog-img-big-3.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/blog-img-big-3.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\blog-img-big-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-1.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/brand-1.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/brand-2.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-3.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/brand-3.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-4.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-4.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/brand-4.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-5.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-5.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/brand-5.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-6.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\brand-6.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/brand-6.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\brand-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-large.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-large.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/cat-gal-large.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-large.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-mid.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-mid.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/cat-gal-mid.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-mid.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-mid-2.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-mid-2.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/cat-gal-mid-2.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-mid-2.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-small.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-small.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/cat-gal-small.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-small.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-small-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\cat-gal-small-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/cat-gal-small-2.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\cat-gal-small-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-1.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-1.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/client-1.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-1.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-2.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-2.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/client-2.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-2.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-3.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-3.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/client-3.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-3.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-4.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-4.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/client-4.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-4.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-5.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\client-5.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/client-5.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\client-5.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\home-blog-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\home-blog-1.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/home-blog-1.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\home-blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\home-blog-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\home-blog-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/home-blog-2.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\home-blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\home-side-promo.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\others\\home-side-promo.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/others/home-side-promo.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\others\\home-side-promo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\image\\products\\cart-product-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\image\\products\\cart-product-1.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/image/products/cart-product-1.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\products\\cart-product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\js\\ajax-mail.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\js\\ajax-mail.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/js/ajax-mail.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\ajax-mail.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\js\\modal.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\js\\modal.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/js/modal.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\modal.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\assets\\js\\plugins.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\assets\\js\\plugins.js",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "assets/js/plugins.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\0251759b-c2d1-4c5a-b536-7a24cea0b324h6-img-4.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\0251759b-c2d1-4c5a-b536-7a24cea0b324h6-img-4.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/0251759b-c2d1-4c5a-b536-7a24cea0b324h6-img-4.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\0251759b-c2d1-4c5a-b536-7a24cea0b324h6-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\02a0e0de-ae8b-40fb-92fc-8fab1cf45b42h6-img-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\02a0e0de-ae8b-40fb-92fc-8fab1cf45b42h6-img-3.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/02a0e0de-ae8b-40fb-92fc-8fab1cf45b42h6-img-3.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\02a0e0de-ae8b-40fb-92fc-8fab1cf45b42h6-img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\043c17d6-ea51-4300-95ba-7e2e47c459b6h6-img-9.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\043c17d6-ea51-4300-95ba-7e2e47c459b6h6-img-9.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/043c17d6-ea51-4300-95ba-7e2e47c459b6h6-img-9.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\043c17d6-ea51-4300-95ba-7e2e47c459b6h6-img-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\06d52a57-8bc0-4bd8-a48c-20e06336aeeah3-team-img-4.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\06d52a57-8bc0-4bd8-a48c-20e06336aeeah3-team-img-4.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/06d52a57-8bc0-4bd8-a48c-20e06336aeeah3-team-img-4.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\06d52a57-8bc0-4bd8-a48c-20e06336aeeah3-team-img-4.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\08b1b103-548d-40f0-a757-f70f1af12df3h3-team-img-2.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\08b1b103-548d-40f0-a757-f70f1af12df3h3-team-img-2.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/08b1b103-548d-40f0-a757-f70f1af12df3h3-team-img-2.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\08b1b103-548d-40f0-a757-f70f1af12df3h3-team-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\130d63b8-d499-4fb1-bc13-42c740170aebh6-img-7.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\130d63b8-d499-4fb1-bc13-42c740170aebh6-img-7.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/130d63b8-d499-4fb1-bc13-42c740170aebh6-img-7.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\130d63b8-d499-4fb1-bc13-42c740170aebh6-img-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\229665df-8313-416f-ba60-a239b3b8eff1shop-7-img.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\229665df-8313-416f-ba60-a239b3b8eff1shop-7-img.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/229665df-8313-416f-ba60-a239b3b8eff1shop-7-img.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\229665df-8313-416f-ba60-a239b3b8eff1shop-7-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\2a876078-0cb9-46e9-b9a3-f138a65ecac1java.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\2a876078-0cb9-46e9-b9a3-f138a65ecac1java.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/2a876078-0cb9-46e9-b9a3-f138a65ecac1java.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\2a876078-0cb9-46e9-b9a3-f138a65ecac1java.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\2dd84c51-8572-4cd2-9d64-01e3059064c0h3-team-img-2.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\2dd84c51-8572-4cd2-9d64-01e3059064c0h3-team-img-2.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/2dd84c51-8572-4cd2-9d64-01e3059064c0h3-team-img-2.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\2dd84c51-8572-4cd2-9d64-01e3059064c0h3-team-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\326a008e-7d7c-4fce-a340-f93db1ad70f2h3-team-img-1 - Copy.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\326a008e-7d7c-4fce-a340-f93db1ad70f2h3-team-img-1 - Copy.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/326a008e-7d7c-4fce-a340-f93db1ad70f2h3-team-img-1 - Copy.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\326a008e-7d7c-4fce-a340-f93db1ad70f2h3-team-img-1 - Copy.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\4b053ef8-26b6-418e-835e-d5ca291751e4shop-8-img.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\4b053ef8-26b6-418e-835e-d5ca291751e4shop-8-img.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/4b053ef8-26b6-418e-835e-d5ca291751e4shop-8-img.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\4b053ef8-26b6-418e-835e-d5ca291751e4shop-8-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\714c73a6-b717-4904-95eb-9ef519623915h6-img-6.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\714c73a6-b717-4904-95eb-9ef519623915h6-img-6.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/714c73a6-b717-4904-95eb-9ef519623915h6-img-6.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\714c73a6-b717-4904-95eb-9ef519623915h6-img-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\80e5d555-7c1b-4013-b417-e2d837120ca6shop-1-img.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\80e5d555-7c1b-4013-b417-e2d837120ca6shop-1-img.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/80e5d555-7c1b-4013-b417-e2d837120ca6shop-1-img.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\80e5d555-7c1b-4013-b417-e2d837120ca6shop-1-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\893cc6ee-383b-4657-9079-957595f31cb9h6-img-9.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\893cc6ee-383b-4657-9079-957595f31cb9h6-img-9.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/893cc6ee-383b-4657-9079-957595f31cb9h6-img-9.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\893cc6ee-383b-4657-9079-957595f31cb9h6-img-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\97505524-c92a-403f-8147-b252aa500f87h6-img-9.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\97505524-c92a-403f-8147-b252aa500f87h6-img-9.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/97505524-c92a-403f-8147-b252aa500f87h6-img-9.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\97505524-c92a-403f-8147-b252aa500f87h6-img-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\a6bac44b-850a-4314-bf03-bef5cf86c792h3-team-img-2.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\a6bac44b-850a-4314-bf03-bef5cf86c792h3-team-img-2.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/a6bac44b-850a-4314-bf03-bef5cf86c792h3-team-img-2.png",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\a6bac44b-850a-4314-bf03-bef5cf86c792h3-team-img-2.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\a81993c7-dafb-40f6-a4ef-ba5ac51bbe50shop-9-img.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\a81993c7-dafb-40f6-a4ef-ba5ac51bbe50shop-9-img.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/a81993c7-dafb-40f6-a4ef-ba5ac51bbe50shop-9-img.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\a81993c7-dafb-40f6-a4ef-ba5ac51bbe50shop-9-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\c38a84c3-7604-4ba7-87d2-7e87c3423f80java.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\c38a84c3-7604-4ba7-87d2-7e87c3423f80java.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/c38a84c3-7604-4ba7-87d2-7e87c3423f80java.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\c38a84c3-7604-4ba7-87d2-7e87c3423f80java.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\c8842736-c107-4683-862b-bd3cd8b620e3h3-team-img-3.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\c8842736-c107-4683-862b-bd3cd8b620e3h3-team-img-3.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/c8842736-c107-4683-862b-bd3cd8b620e3h3-team-img-3.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\c8842736-c107-4683-862b-bd3cd8b620e3h3-team-img-3.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\cae53ceb-a959-44fc-89ad-b650179d8553h6-img-4.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\cae53ceb-a959-44fc-89ad-b650179d8553h6-img-4.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/cae53ceb-a959-44fc-89ad-b650179d8553h6-img-4.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\cae53ceb-a959-44fc-89ad-b650179d8553h6-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\cc985263-b596-451b-9701-9800091931c7h6-img-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\cc985263-b596-451b-9701-9800091931c7h6-img-3.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/cc985263-b596-451b-9701-9800091931c7h6-img-3.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\cc985263-b596-451b-9701-9800091931c7h6-img-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\ce33d521-0e1e-453b-aaab-2aa28fc88909h6-img-9.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\ce33d521-0e1e-453b-aaab-2aa28fc88909h6-img-9.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/ce33d521-0e1e-453b-aaab-2aa28fc88909h6-img-9.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\ce33d521-0e1e-453b-aaab-2aa28fc88909h6-img-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\d7e38c94-417a-483d-9926-d488b194664ah3-team-img-3.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\d7e38c94-417a-483d-9926-d488b194664ah3-team-img-3.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/d7e38c94-417a-483d-9926-d488b194664ah3-team-img-3.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\d7e38c94-417a-483d-9926-d488b194664ah3-team-img-3.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\d82beef0-0f24-4dbd-8b01-209eacd5b86ejava.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\d82beef0-0f24-4dbd-8b01-209eacd5b86ejava.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/d82beef0-0f24-4dbd-8b01-209eacd5b86ejava.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\d82beef0-0f24-4dbd-8b01-209eacd5b86ejava.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\dbeb910e-8e4e-434e-8a7f-065efcd5fbe6shop-10-img.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\dbeb910e-8e4e-434e-8a7f-065efcd5fbe6shop-10-img.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/dbeb910e-8e4e-434e-8a7f-065efcd5fbe6shop-10-img.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\dbeb910e-8e4e-434e-8a7f-065efcd5fbe6shop-10-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\f140152e-1e9f-4a09-9cb0-b498fb47affauserPhoto.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\f140152e-1e9f-4a09-9cb0-b498fb47affauserPhoto.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/f140152e-1e9f-4a09-9cb0-b498fb47affauserPhoto.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\f140152e-1e9f-4a09-9cb0-b498fb47affauserPhoto.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\fd5c1374-d107-4e8d-80e1-47c8a801351fport-img-21.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\fd5c1374-d107-4e8d-80e1-47c8a801351fport-img-21.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/fd5c1374-d107-4e8d-80e1-47c8a801351fport-img-21.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\fd5c1374-d107-4e8d-80e1-47c8a801351fport-img-21.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\ff48e85f-a04b-45df-8cdc-84b516316f39h3-team-img-4.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\ff48e85f-a04b-45df-8cdc-84b516316f39h3-team-img-4.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/ff48e85f-a04b-45df-8cdc-84b516316f39h3-team-img-4.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\ff48e85f-a04b-45df-8cdc-84b516316f39h3-team-img-4.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-1.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-1.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-10.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-10.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-10.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-11.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-11.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-11.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-12.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-12.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-12.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-13.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-13.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-13.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-13.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-2.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-3.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-3.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-4.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-4.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-4.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-5.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-5.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-5.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-6 (2).jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-6 (2).jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-6 (2).jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-6 (2).jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-6.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-6.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-6.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-7.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-7.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-7.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-8.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-8.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-8.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-9.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-9.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-9.jpg",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-details-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-details-1.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-details-1.jpg",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-details-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-details-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-details-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-details-2.jpg",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-details-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-details-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-details-3.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-details-3.jpg",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-details-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-details-5.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Books\\product-details-5.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Books/product-details-5.jpg",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Books\\product-details-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\e479bde1-c6d0-41f7-a3a0-fa7a5ff3f0c3planning.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\e479bde1-c6d0-41f7-a3a0-fa7a5ff3f0c3planning.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Sliders/e479bde1-c6d0-41f7-a3a0-fa7a5ff3f0c3planning.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Sliders\\e479bde1-c6d0-41f7-a3a0-fa7a5ff3f0c3planning.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-2-slider-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-2-slider-1.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Sliders/home-2-slider-1.jpg",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Sliders\\home-2-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-2-slider-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-2-slider-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Sliders/home-2-slider-2.jpg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Sliders\\home-2-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-3-slider-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-3-slider-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Sliders/home-3-slider-2.jpg",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Sliders\\home-3-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-4-slider-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-4-slider-1.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Sliders/home-4-slider-1.jpg",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Sliders\\home-4-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-4-slider-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-4-slider-2.jpg",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Sliders/home-4-slider-2.jpg",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Sliders\\home-4-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-slider-1-ai.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\Uploads\\Sliders\\home-slider-1-ai.png",
       "SourceId": "Pustok",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\20. Task 19-12-22 Pustok v12\\PustokApp\\Pustok\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\CodeAcadem\\BackEnd\\Tasks\\21. Task 20-12-22 Pustok v!3\\PustokApp\\Pustok\\wwwroot\\",
       "BasePath": "_content/Pustok",
       "RelativePath": "Uploads/Sliders/home-slider-1-ai.png",
       "AssetKind": "All",

@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis.VisualBasic.Syntax;
 using Microsoft.EntityFrameworkCore;
+using MimeKit.Text;
+using MimeKit;
 using Newtonsoft.Json;
 using NuGet.Protocol;
 using Pustok.DAL;
@@ -13,10 +15,14 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Threading.Tasks;
+using MailKit.Security;
+using MailKit.Net.Smtp;
+using Microsoft.IdentityModel.Tokens;
+using System.Text.RegularExpressions;
 
 namespace Pustok.Controllers
 {
-    public class AccountController :BaseController
+    public class AccountController : BaseController
     {
         private readonly PustokDbContext _context;
         private readonly UserManager<AppUser> _userManager;
@@ -133,7 +139,7 @@ namespace Pustok.Controllers
 
                 foreach (var item in basketList)
                 {
-                    BasketItem basketItem = _context.BasketItems.FirstOrDefault(x=> x.AppUserId == appUser.Id && x.BookId == item.BookId);
+                    BasketItem basketItem = _context.BasketItems.FirstOrDefault(x => x.AppUserId == appUser.Id && x.BookId == item.BookId);
 
                     if (basketItem == null)
                     {
@@ -189,7 +195,7 @@ namespace Pustok.Controllers
 
 
             return View(ProfileVm);
-        } 
+        }
         [HttpPost]
         [Authorize(Roles = "Member")]
         public async Task<IActionResult> Profile(MemberEditViewModel memberEditVm)
@@ -216,7 +222,7 @@ namespace Pustok.Controllers
 
             if (!ModelState.IsValid)
             {
-                
+
                 return View(ProfileVm);
             }
 
@@ -249,8 +255,8 @@ namespace Pustok.Controllers
 
 
             _context.SaveChanges();
-            
-        
+
+
 
             await _signInManager.SignInAsync(appUser, true);
 
@@ -266,12 +272,104 @@ namespace Pustok.Controllers
         private List<Order> _getOrders()
         {
             List<Order> orders = _context.Orders
-                    .Include(x=> x.AppUser)
-                    .Include(x=> x.OrderItems)
-                    .ThenInclude(x=> x.Book)
-                    .Where(x=> x.AppUserId == UserId).ToList();
+                    .Include(x => x.AppUser)
+                    .Include(x => x.OrderItems)
+                    .ThenInclude(x => x.Book)
+                    .Where(x => x.AppUserId == UserId).ToList();
 
             return orders;
+        }
+
+        public IActionResult ForgotPassword()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> ForgotPassword(ForgotPasswordVeiwModel forgotVm)
+        {
+            if (!ModelState.IsValid)
+                return View();
+
+            AppUser user = await _userManager.FindByEmailAsync(forgotVm.Email);
+
+            if (user == null)
+            {
+                ModelState.AddModelError("", "Invalid Email Address !!!");
+                return View();
+            }
+            //create token to verify
+            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+            // create url to send
+            var url = Url.Action("verifypasswordreset", "account", new { email = user.Email, token = token }, Request.Scheme);
+
+
+            // create Email
+            var email = new MimeMessage();
+            email.From.Add(MailboxAddress.Parse("lourdes.mueller@ethereal.email"));
+            email.To.Add(MailboxAddress.Parse("lourdes.mueller@ethereal.email"));
+            email.Subject = "Test Email Subject";
+            email.Body = new TextPart(TextFormat.Html) { Text = $"<h1>To Reset your password click <a href=\"{url}\">Here</a></h1>" };
+
+            // send email
+            using var smtp = new SmtpClient();
+            smtp.Connect("smtp.ethereal.email", 587, SecureSocketOptions.StartTls);
+            smtp.Authenticate("lourdes.mueller@ethereal.email", "H5V3D9NX9X5cwWCK4y");
+            smtp.Send(email);
+            smtp.Disconnect(true);
+
+
+            return View();
+        }
+        public async Task<IActionResult> VerifyPasswordReset(string email, string token)
+        {
+
+            AppUser user = await _userManager.FindByEmailAsync(email);
+
+            if (user == null || !await _userManager.VerifyUserTokenAsync(user, _userManager.Options.Tokens.PasswordResetTokenProvider, "ResetPassword", token))
+            {
+                return NotFound();
+            }
+
+            TempData["email"] = email;
+            TempData["token"] = token;
+
+            return RedirectToAction("resetPassword");
+        }
+
+        public IActionResult ResetPassword()
+        {
+            var email = TempData["email"];
+            var token = TempData["token"];
+
+
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> ResetPassword(ResetPasswordViewModel resetVm)
+        {
+            if (!ModelState.IsValid)
+            {
+                return RedirectToAction("resetPassword");
+            }
+            
+
+            var user = await _userManager.FindByEmailAsync(resetVm.Email);
+            if (user == null) return NotFound();
+
+
+
+           var result = await _userManager.ResetPasswordAsync(user,resetVm.Token, resetVm.Password);
+
+            if(!result.Succeeded)
+            {
+                foreach (var error in result.Errors)
+                {
+                    ModelState.AddModelError("", error.Description);
+                }
+                return View();
+            }
+
+            return RedirectToAction("login");
         }
 
 
