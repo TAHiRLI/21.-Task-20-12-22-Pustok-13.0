@@ -5,7 +5,8 @@
 
 @{
     AppUser user = null;
-    if(User.Identity.IsAuthenticated && User.IsInRole("Member")){
+    if (User.Identity.IsAuthenticated && User.IsInRole("Member"))
+    {
         user = _userManager.FindByNameAsync(User.Identity.Name).Result;
     }
     Dictionary<string, string> Settings = layoutService.GetSettings();
@@ -25,11 +26,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Use Minified Plugins Version For Fast Page Load -->
     <link rel="stylesheet" type="text/css" media="screen" href="~/assets/css/plugins.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css" integrity="sha512-3pIirOrwegjM6erE5gPSwkUzO+3cTjpnV9lexlNZqvupR64iZBnOOTiiLPb9M36zpMScbmUNIcHUqKD47M719g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" type="text/css" media="screen" href="~/assets/css/main.css" />
     <link rel="shortcut icon" type="image/x-icon" href="~/assets/image/favicon.ico">
 </head>
 
 <body>
+    @if (TempData["success"] != null)
+    {
+        <input type="hidden" value="@TempData["success"]" id="toastrSuccess" />
+    }
+
     <div class="site-wrapper" id="top">
         <div class="site-header d-none d-lg-block">
             <div class="header-middle pt--10 pb--10">
@@ -250,7 +257,7 @@
 
                                     </div>
                                     <div class="cart-block" id="BasketPartialHolder">
-                                     @await Html.PartialAsync("_BasketPartial", basketVm );  
+                                        @await Html.PartialAsync("_BasketPartial", basketVm );
                                     </div>
                                 </div>
                             </div>
@@ -778,6 +785,32 @@
         <script src="~/assets/js/modal.js"></script>
         <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
         @*<script src="sweetalert2.all.min.js"></script>*@
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js" integrity="sha512-VEd+nq25CkR676O+pLBnDW09R7VQX9Mdiij052gVCp5yVH3jGtH70Ho/UUv4mJDsEdTvqRCFZg0NKGiojGnUCw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+        <script>
+            var Toast = Swal.mixin({
+                toast: true,
+                position: 'top-end',
+                showConfirmButton: false,
+                timer: 3000
+            });
+
+
+            
+            $(document).ready(function () {
+               if($("#toastrSuccess").length){
+                    Toast.fire({
+                    icon: 'success', // error, info, warning
+                    title:  $("#toastrSuccess").val()
+                })
+               }
+
+            })
+
+
+        </script>
+
 
 
         @RenderSection("Scripts",required: false)

@@ -305,19 +305,19 @@ namespace Pustok.Controllers
 
             // create Email
             var email = new MimeMessage();
-            email.From.Add(MailboxAddress.Parse("lourdes.mueller@ethereal.email"));
-            email.To.Add(MailboxAddress.Parse("lourdes.mueller@ethereal.email"));
+            email.From.Add(MailboxAddress.Parse("wilhelm.bins72@ethereal.email"));
+            email.To.Add(MailboxAddress.Parse("wilhelm.bins72@ethereal.email"));
             email.Subject = "Test Email Subject";
             email.Body = new TextPart(TextFormat.Html) { Text = $"<h1>To Reset your password click <a href=\"{url}\">Here</a></h1>" };
 
             // send email
             using var smtp = new SmtpClient();
             smtp.Connect("smtp.ethereal.email", 587, SecureSocketOptions.StartTls);
-            smtp.Authenticate("lourdes.mueller@ethereal.email", "H5V3D9NX9X5cwWCK4y");
+            smtp.Authenticate("wilhelm.bins72@ethereal.email", "kbu41wuYkSP1Vf6hJv");
             smtp.Send(email);
             smtp.Disconnect(true);
 
-
+            TempData["success"] = "Email successuly sent";
             return View();
         }
         public async Task<IActionResult> VerifyPasswordReset(string email, string token)
