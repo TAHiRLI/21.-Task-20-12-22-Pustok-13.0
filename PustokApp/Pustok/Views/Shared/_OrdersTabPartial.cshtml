@@ -1,0 +1,43 @@
+﻿@model List<Order>
+@{
+    int counter = 0;
+}
+
+<div class="tab-pane fade" id="orders" role="tabpanel">
+    <div class="myaccount-content">
+        <h3>Orders</h3>
+        <div class="myaccount-table table-responsive text-center">
+            <table class="table table-bordered">
+                <thead class="thead-light">
+                    <tr>
+                        <th>No</th>
+                        <th>Name</th>
+                        <th>Date</th>
+                        <th>Status</th>
+                        <th>Total</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var order in Model)
+                    {
+                        counter++;
+                        <tr>
+                            <td>@counter</td>
+                            <td>@order.Fullname</td>
+                            <td>@order.CreatedAt?.ToString(" dd MMMM yyyy")</td>
+                            <td>@order.OrderStatus</td>
+                            <td>$@order.OrderItems.Sum(x=> x.Count *(x.Book.SalePrice*(100-x.Book.DiscountPercent)/100)).ToString("0.00")</td>
+                            <td><a asp-action="details" asp-controller="Order" asp-route-id="@order.Id" class="btn">View</a></td>
+
+                        </tr>
+                    }
+
+                   
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    </div>

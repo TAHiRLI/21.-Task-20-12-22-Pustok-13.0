@@ -1,0 +1,31 @@
+﻿@using Pustok.Enums
+
+@model Order
+<div class="card col-md-3" >
+    <div class="card-body">
+        <h5 class="card-title">TrackId: - </h5>
+        <h5 class="card-text">Full name: @Model.Fullname </h5>
+        <h5 class="card-text">Email: @Model.Email </h5>
+        <h5 class="card-text">City: @Model.City </h5>
+        <h5 class="card-text"> ZipCode: @Model.ZipCode</h5>
+        <h5 class="card-text">Address 1: @Model.Address1</h5>
+        <h5 class="card-text">Address 2: @Model.Address2</h5>
+        <p class="card-text">@Model.Note</p>
+        <div class="row justify-content-end">
+          
+                <div class="col-2">
+                    <form method="post" asp-action="reject" asp-route-id="@Model.Id">
+                        <button class="btn btn-danger" type="submit">Reject</button>
+                    </form>
+                </div>
+                <div class="col-2">
+                    <form method="post" asp-action="accept" asp-route-id="@Model.Id">
+                        <button class="btn btn-primary" type="submit">Accept</button>
+                    </form>
+                </div>
+         
+           
+       
+        </div>
+    </div>
+</div>

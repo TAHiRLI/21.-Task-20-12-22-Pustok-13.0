@@ -1,0 +1,59 @@
+﻿
+
+@model MemberEditViewModel
+<div class="tab-pane fade show active" id="account-info" role="tabpanel">
+    <div class="myaccount-content">
+        <h3>Account Details</h3>
+        <div class="account-details-form">
+            <form asp-action="Profile" method="post">
+                <div class="row">
+                    <div class="col-lg-6 col-12  mb--30">
+                        <label asp-for="Fullname">FullName</label>
+                        <input id="first-name" asp-for="Fullname" placeholder="Fullname" type="text">
+                        <span class="text-danger" asp-validation-for="Fullname"></span>
+                    </div>
+                    <div class="col-lg-6 col-12  mb--30">
+                        <label asp-for="UserName">UserName</label>
+                        <input asp-for="UserName" placeholder="UserName" type="text">
+                        <span class="text-danger" asp-validation-for="UserName"></span>
+                    </div>
+                    <div class="col-lg-6 col-12  mb--30">
+                        <label asp-for="Email">Email</label>
+                        <input asp-for="Email" placeholder="Email" type="text">
+                        <span class="text-danger" asp-validation-for="Email"></span>
+                    </div>
+
+
+                    <div class="col-12  mb--30">
+                        <label asp-for="CurrentPassword">CurrentPassword</label>
+                        <input asp-for="CurrentPassword" type="password" placeholder="CurrentPassword" type="text">
+                        <span class="text-danger" asp-validation-for="CurrentPassword"></span>
+                    </div>
+                    <div class="col-lg-6 col-12  mb--30">
+                        <label asp-for="NewPassword">NewPassword</label>
+                        <input asp-for="NewPassword" type="password" placeholder="New Password" type="text">
+                        <span class="text-danger" asp-validation-for="NewPassword"></span>
+                    </div>
+                    <div class="col-lg-6 col-12  mb--30">
+                        <label asp-for="ConfirmPassword">ConfirmPassword</label>
+                        <input asp-for="ConfirmPassword" type="password" placeholder="Confirm Password" type="text">
+                        <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+                    </div>
+
+                    <div class="col-12">
+                        <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+
+                        <button type="submit" class="btn btn--primary">Save Changes</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+                        @section Scripts{
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+}

@@ -1,0 +1,94 @@
+﻿@using Pustok.Enums
+@model PaginatedList<Order>
+
+@{
+    ViewData["Title"] = "Index";
+    int ItemOrder = (Model.PageIndex - 1) * Model.PageSize;
+}
+<main>
+    <div class="container-fluid px-4">
+
+        <div class="card mb-4">
+        </div>
+        <div class="card mb-4">
+
+            <div class="card-body">
+                <table class="table table-striped table-light" id="datatablesSimple">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>TrackId</th>
+                            <th>Fullname</th>
+                            <th>Email</th>
+                            <th>Item count</th>
+                            <th>Total Price</th>
+                            <th>Status</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        @foreach (var order in Model)
+                        {
+                            ItemOrder++;
+
+                            <tr>
+                                <td>@ItemOrder</td>
+                                <td>trackId</td>
+                                <td>@order.Fullname</td>
+                                <td>@order.Email</td>
+                                <td>@order.OrderItems.Count</td>
+                                <td>@order.OrderItems.Sum(x=> x.Count *(x.Book.SalePrice*(100-x.Book.DiscountPercent)/100)).ToString("0.00")</td>
+                                <td>
+                                    <span class="badge text-dark badge-@(order.OrderStatus==OrderStatus.Accepted?"success"
+                                    :(order.OrderStatus==OrderStatus.Pending?"warning":"danger"))">
+
+                                    @order.OrderStatus
+
+                                    </span>
+                                </td>
+                                <td class=" row">
+                                    <a class="btn btn-primary" asp-action="edit" asp-controller="order" asp-route-id="@order.Id">Edit</a>
+                                </td>
+
+                            </tr>
+
+                        }
+
+
+
+                    </tbody>
+                </table>
+                <div class="col-12 ">
+
+                    <nav class="m-auto" aria-label="...">
+                        <ul class="pagination">
+
+                            <li class="page-item @(!Model.HasPrevious? "disabled":"")">
+                                <a class="page-link" asp-action="index" asp-controller="Book" asp-route-page="@(Model.PageIndex-1)">Previous</a>
+                            </li>
+
+
+
+
+                            @for (int i = 1; i <= Model.TotalPage; i++)
+                            {
+                                <li class="page-item @(Model.PageIndex == i? "active":"")"><a class="page-link" asp-action="index" asp-controller="Book" asp-route-page="@i">@i</a></li>
+
+                            }
+                            <li class="page-item @(!Model.HasNext? "disabled":"")">
+                                <a class="page-link" asp-action="index" asp-controller="Book" asp-route-page="@(Model.PageIndex+1)">Next</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+</main>
+
+
+

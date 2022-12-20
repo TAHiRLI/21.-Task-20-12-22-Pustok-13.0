@@ -1,0 +1,65 @@
+﻿@using Pustok.ViewModels
+
+@{
+    ViewData["Title"] = "Register";
+}
+@model MemberRegisterViewModel
+<main class="page-section inner-page-sec-padding-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-xs-12 col-lg-6 m-auto mb--30 mb-lg--0">
+                <!-- Register Form s-->
+                <form asp-action="register" method="post" id="registerForm">
+                    <div class="login-form">
+                        <h4 class="login-title">Register</h4>
+                        <p><span class="font-weight-bold">I am a new customer</span></p>
+                        <div class="row">
+                            <div class="col-md-12 col-12 mb--15">
+                                <label asp-for="Fullname">Full Name</label>
+                                <input class="mb-0 form-control" asp-for="Fullname" type="text" 
+                                       placeholder="Enter your full name">
+                                <span class="text-danger" asp-validation-for="Fullname"></span>
+                            </div> <div class="col-md-12 col-12 mb--15">
+                                <label asp-for="Username">Username</label>
+                                <input class="mb-0 form-control" asp-for="Username" type="text" id="name"
+                                       placeholder="Enter your full name">
+                                <span class="text-danger" asp-validation-for="Username"></span>
+                            </div>
+                            <div class="col-12 mb--20">
+                                <label asp-for="Email">Email</label>
+                                <input class="mb-0 form-control" asp-for="Email" type="email" placeholder="Enter Your Email Address Here..">
+                                <span class="text-danger" asp-validation-for="Email"></span>
+
+                            </div>
+                            <div class="col-lg-6 mb--20">
+                                <label asp-for="Password">Password</label>
+                                <input class="mb-0 form-control" type="password" id="password" asp-for="Password" placeholder="Enter your password">
+                                <span class="text-danger" asp-validation-for="Password"></span>
+
+                            </div>
+                            <div class="col-lg-6 mb--20">
+                                <label asp-for="ConfirmPassword">ConfirmPassword</label>
+                                <input class="mb-0 form-control" type="password" id="repeat-password" asp-for="ConfirmPassword" placeholder="Repeat your password">
+                                <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+
+                            </div>
+                            <div class="text-danger" asp-validation-summary="ModelOnly" ></div>
+                            <div class="col-md-12">
+                                <button type="submit" class="btn btn-outlined">Register</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>
+
+@section Scripts{
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+}
+
+                               
